@@ -1,0 +1,60 @@
+{
+  "players": [
+    {
+      "id": 0,
+      "firstName": "Trae",
+      "lastName": "Young",
+      "position": "PG",
+      "team": "Hawks",
+      "overall": 87
+    },
+    {
+      "id": 1,
+      "firstName": "Clint",
+      "lastName": "Capela",
+      "position": "C",
+      "team": "Hawks",
+      "overall": 86
+    },
+    {
+      "id": 2,
+      "firstName": "John",
+      "lastName": "Collins",
+      "position": "PF/C",
+      "team": "Hawks",
+      "overall": 85
+    },
+    {
+      "id": 3,
+      "firstName": "De'Andre",
+      "lastName": "Hunter",
+      "position": "SF/PF",
+      "team": "Hawks",
+      "overall": 81
+    },
+    {
+      "id": 4,
+      "firstName": "Bogdan",
+      "lastName": "Bogdanovic",
+      "position": "SG/SF",
+      "team": "Hawks",
+      "overall": 81
+    },
+    {
+      "id": 5,
+      "firstName": "Lou",
+      "lastName": "Williams",
+      "position": "PG/SG",
+      "team": "Hawks",
+      "overall": 79
+    },
+    {
+      "id": 6,
+      "firstName": "Onyeka",
+      "lastName": "Okongwu",
+      "position": "C/PF",
+      "team": "Hawks",
+      "overall": 76
+    }
+  ]
+}
