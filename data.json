@@ -55,6 +55,14 @@
       "position": "C/PF",
       "team": "Hawks",
       "overall": 76
+    },
+    {
+      "id": 7,
+      "firstName": "Kevin",
+      "lastName": "Huerter",
+      "position": "SG/PF",
+      "team": "Hawks",
+      "overall": 76
     }
   ]
 }
