@@ -63,6 +63,14 @@
       "position": "SG/PF",
       "team": "Hawks",
       "overall": 76
+    },
+    {
+      "id": 8,
+      "firstName": "Danilo",
+      "lastName": "Gallinari",
+      "position": "PF/SF",
+      "team": "Hawks",
+      "overall": 81
     }
   ]
 }
