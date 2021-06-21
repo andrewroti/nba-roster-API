@@ -79,6 +79,62 @@
       "position": "PG",
       "team": "Hawks",
       "overall": 76
+    },
+    {
+      "id": 11,
+      "firstName": "Cameron",
+      "lastName": "Reddish",
+      "position": "SF/SG",
+      "team": "Hawks",
+      "overall": 74
+    },
+    {
+      "id": 12,
+      "firstName": "Tony",
+      "lastName": "Snell",
+      "position": "SF/SG",
+      "team": "Hawks",
+      "overall": 74
+    },
+    {
+      "id": 13,
+      "firstName": "Nathan",
+      "lastName": "Knight",
+      "position": "C/PF",
+      "team": "Hawks",
+      "overall": 73
+    },
+    {
+      "id": 14,
+      "firstName": "Bruno",
+      "lastName": "Fernando",
+      "position": "C",
+      "team": "Hawks",
+      "overall": 72
+    },
+    {
+      "id": 15,
+      "firstName": "Skylar",
+      "lastName": "Mays",
+      "position": "SG/SF",
+      "team": "Hawks",
+      "overall": 71
+    },
+    {
+      "id": 16,
+      "firstName": "Solomon",
+      "lastName": "Hill",
+      "position": "PF/SF",
+      "team": "Hawks",
+      "overall": 70
+    },
+    {
+      "id": 17,
+      "firstName": "Brandon",
+      "lastName": "Goodwin",
+      "position": "PG",
+      "team": "Hawks",
+      "overall": 69
     }
   ]
 }
